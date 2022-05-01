@@ -76,7 +76,7 @@ _______  ______ _______ _______ _     _ _______  ______
 |_____  |    \_ |     | |_____  |    \_ |______ |    \_
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Author   : daimaster carless
- [\x1b[1;96m+%s] Github   : https://github.com/dainaste/carless
+ [\x1b[1;96m+%s] Github   : https://github.com/dainaste/carlesss
  [\x1b[1;96m+%s] Facebook : daimaster carless
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 
